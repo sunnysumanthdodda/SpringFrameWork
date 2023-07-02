@@ -5,7 +5,6 @@ public class GameRunner {
     public GameRunner(GamingConsole game) {
         this.game = game;
     }
-
     public void run(){
         //System.out.println("Game running successfully "+game);
         game.up();
