@@ -1,4 +1,4 @@
-package com.example.learnspringframework.game;
+package com.example.learnspringframework.javagamingbasic;
 
 public class App01GamingBasic {
     public static void main(String[] args) {

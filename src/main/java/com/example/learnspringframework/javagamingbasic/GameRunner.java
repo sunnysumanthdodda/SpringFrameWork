@@ -1,4 +1,4 @@
-package com.example.learnspringframework.game;
+package com.example.learnspringframework.javagamingbasic;
 
 public class GameRunner {
     private final GamingConsole game;
