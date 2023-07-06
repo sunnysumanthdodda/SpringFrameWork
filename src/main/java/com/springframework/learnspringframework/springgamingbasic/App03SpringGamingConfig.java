@@ -1,7 +1,7 @@
-package com.example.learnspringframework.springgamingbasic;
+package com.springframework.learnspringframework.springgamingbasic;
 
-import com.example.learnspringframework.javagamingbasic.GameRunner;
-import com.example.learnspringframework.javagamingbasic.GamingConsole;
+import com.springframework.learnspringframework.javagamingbasic.GameRunner;
+import com.springframework.learnspringframework.javagamingbasic.GamingConsole;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class App03SpringGamingConfig {

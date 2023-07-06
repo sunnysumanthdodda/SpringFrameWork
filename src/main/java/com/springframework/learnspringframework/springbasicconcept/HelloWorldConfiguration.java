@@ -1,4 +1,4 @@
-package com.example.learnspringframework.springbasicconcept;
+package com.springframework.learnspringframework.springbasicconcept;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

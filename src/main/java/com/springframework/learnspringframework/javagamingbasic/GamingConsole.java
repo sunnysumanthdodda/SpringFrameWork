@@ -1,4 +1,4 @@
-package com.example.learnspringframework.javagamingbasic;
+package com.springframework.learnspringframework.javagamingbasic;
 
 
 public interface GamingConsole {

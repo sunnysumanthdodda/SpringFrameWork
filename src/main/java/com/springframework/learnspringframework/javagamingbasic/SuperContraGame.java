@@ -1,4 +1,4 @@
-package com.example.learnspringframework.javagamingbasic;
+package com.springframework.learnspringframework.javagamingbasic;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;

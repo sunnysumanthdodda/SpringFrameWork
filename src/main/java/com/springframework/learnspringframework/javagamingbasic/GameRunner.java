@@ -1,4 +1,4 @@
-package com.example.learnspringframework.javagamingbasic;
+package com.springframework.learnspringframework.javagamingbasic;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;

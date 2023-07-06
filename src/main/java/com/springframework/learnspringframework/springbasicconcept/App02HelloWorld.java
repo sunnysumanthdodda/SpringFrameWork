@@ -1,4 +1,4 @@
-package com.example.learnspringframework.springbasicconcept;
+package com.springframework.learnspringframework.springbasicconcept;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
