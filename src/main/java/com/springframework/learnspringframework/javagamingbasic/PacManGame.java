@@ -1,8 +1,10 @@
 package com.springframework.learnspringframework.javagamingbasic;
 
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
+@Qualifier("PacManGameQualifier")
 public class PacManGame implements GamingConsole {
 
     public void up(){

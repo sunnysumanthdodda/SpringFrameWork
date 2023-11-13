@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class GameRunner {
     private final GamingConsole game;
-    public GameRunner(@Qualifier(value = "MarioGameQualifier") GamingConsole game) {
+    public GameRunner(@Qualifier(value = "PacManGameQualifier") GamingConsole game) {
         this.game = game;
     }
     public void run(){
