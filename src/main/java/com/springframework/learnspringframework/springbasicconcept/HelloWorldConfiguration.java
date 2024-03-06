@@ -40,13 +40,13 @@ public class HelloWorldConfiguration {
 
     @Bean
     @Primary
-    public Person person2(Address address2){
-        return new Person("John Wick",40,address2);
+    public Person person2(){
+        return new Person("John Wick",40,address2());
     }
 
     @Bean
-    public Person person3(Address address3){
-        return new Person("Sherlock Holmes",40,address3);
+    public Person person3(){
+        return new Person("Sherlock Holmes",40,address3());
     }
 
 }
