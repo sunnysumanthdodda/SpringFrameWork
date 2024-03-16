@@ -18,4 +18,6 @@
     <bean id="gameRunner" class="com.springframework.learnspringframework.javagamingbasic.GameRunner">
         <constructor-arg ref="game"/>
     </bean>
+
+    <bean id="scopeRunner" class="com.springframework.advancedfeatures.scope.ScopeRunner" scope="prototype"/>
 </beans>
