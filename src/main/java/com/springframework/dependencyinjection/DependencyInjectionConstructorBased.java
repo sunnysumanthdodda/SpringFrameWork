@@ -5,9 +5,11 @@ import org.springframework.stereotype.Component;
 
 @Component
 class DependencyInjectionConstructorBased {
+
     Dependency1 dependency1;
 
     Dependency2 dependency2;
+
     @Autowired
     public DependencyInjectionConstructorBased(Dependency1 dependency1, Dependency2 dependency2) {
         this.dependency1 = dependency1;
